@@ -1,4 +1,4 @@
-package com.arquiteturacleanspring;
+package com.arquiteturacleanspring.service;
 
 import com.arquiteturacleanspring.model.User;
 import com.arquiteturacleanspring.repository.UserRepository;

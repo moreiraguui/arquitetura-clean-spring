@@ -1,6 +1,6 @@
 package com.arquiteturacleanspring.controller;
 
-import com.arquiteturacleanspring.UserService;
+import com.arquiteturacleanspring.service.UserService;
 import com.arquiteturacleanspring.model.User;
 import org.springframework.web.bind.annotation.*;
 
